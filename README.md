@@ -99,7 +99,7 @@ Nessa playlist ensino o básico das seguintes linguagens de programação cobrin
 10. Array
 11. Matriz
 
-- [ ] C - (em andamento)
+- [ ] [C - (em andamento)](https://www.youtube.com/playlist?list=PLWWWueTSmaQ5pobSd5YabuaIELd_KOqs0)
 - [ ] C++
 - [ ] JavaScript
 
@@ -202,7 +202,6 @@ Para JavaScript:
 - [ECMA - Manual do JavaScript ES6](https://262.ecma-international.org/6.0/)
 
 ## Agradecimentos
-
 - [Artista da Foto de Perfil](https://pixabay.com/users/janjf93-3084263/)
 - [Artista do Banner](https://pixabay.com/users/geralt-9301/)
 
