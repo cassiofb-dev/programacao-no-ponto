@@ -19,6 +19,7 @@
     - [Avançado](#avançado)
   - [Recomendações](#recomendações)
   - [Documentação Útil](#documentação-útil)
+  - [Agradecimentos](#agradecimentos)
 
 ## Sobre
 Bem vindo ao repositório do canal programação no ponto, aqui você encontrará todos os códigos utilizados nas aulas. Fique a vontade para mandar mensagem através de qualquer rede social em caso de dúvida, terei o prazer de ajudar.
@@ -199,6 +200,11 @@ Para JavaScript:
 - [GNU - Manual da Linguagem C](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html)
 - [Microsoft - Manual da Linguagem C++](https://docs.microsoft.com/en-us/cpp/cpp/cpp-language-reference?view=msvc-160)
 - [ECMA - Manual do JavaScript ES6](https://262.ecma-international.org/6.0/)
+
+## Agradecimentos
+
+- [Artista da Foto de Perfil](https://pixabay.com/users/janjf93-3084263/)
+- [Artista do Bannar](https://pixabay.com/users/geralt-9301/)
 
 ---
 
