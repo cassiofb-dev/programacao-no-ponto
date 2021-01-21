@@ -204,7 +204,7 @@ Para JavaScript:
 ## Agradecimentos
 
 - [Artista da Foto de Perfil](https://pixabay.com/users/janjf93-3084263/)
-- [Artista do Bannar](https://pixabay.com/users/geralt-9301/)
+- [Artista do Banner](https://pixabay.com/users/geralt-9301/)
 
 ---
 
