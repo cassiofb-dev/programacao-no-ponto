@@ -37,7 +37,7 @@ Nessa playlist ensino como instalar o windows do zero na máquina virtual e conf
 - [x] Instalando o Java
 - [x] Instalando o Node
 - [x] Instalando o git
-- [x] Instaladno o VSCode
+- [x] Instalando o VSCode
 
 ### Resumo da Configuração
 
