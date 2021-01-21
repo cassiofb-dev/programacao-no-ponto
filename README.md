@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.youtube.com/channel/UC-bXJKzyZB_b5NCIvXpFX6g">
-    <img src="https://i.imgur.com/jM2i9BD.png" alt="logo" style="width: 256px;" />
+    <img src="https://i.imgur.com/jM2i9BD.png" alt="logo" width="256" />
   </a>
 </p>
 
