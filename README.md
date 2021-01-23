@@ -106,18 +106,15 @@ Nessa playlist ensino o básico das seguintes linguagens de programação cobrin
 ### Iniciante
 Nessa playlist você irá aprender o básico das seguintes linguagens cobrindo os seguintes assuntos:
 
-1.  String
-2.  Concatenar Strings
-3.  Comparar Strings
-4.  Tamanho da String
-5.  Funções
-6.  Variável Global
-7.  Váriavel Local
-8.  Váriavel Estática
-9.  Função dentro de Função
-10. Funções Recursivas
-11. Função recebendo Arrays
-12. Função recebendo Matrizes
+1.  Funções
+2.  Variável Global
+3.  Váriavel Local
+4.  Váriavel Estática
+5.  Função dentro de Função
+6.  Funções Recursivas
+7.  Função recebendo Arrays
+8.  Função recebendo Matrizes
+9.  String
 
 - [ ] C
 - [ ] C++
@@ -145,9 +142,8 @@ Para C++:
 4. Insertion Sort
 5. Merge     Sort
 6. Ponteiros
-7. namespace
-8. std::sort()
-9. Classes
+7. std::sort()
+8. Classes
 
 Para JavaScript:
 
