@@ -99,7 +99,7 @@ Nessa playlist ensino o básico das seguintes linguagens de programação cobrin
 10. Array
 11. Matriz
 
-- [x] [C](https://www.youtube.com/playlist?list=PLWWWueTSmaQ5pobSd5YabuaIELd_KOqs0)
+- [x] [C - Completo](https://www.youtube.com/playlist?list=PLWWWueTSmaQ5pobSd5YabuaIELd_KOqs0)
 - [ ] C++
 - [ ] JavaScript
 
@@ -117,7 +117,7 @@ Nessa playlist você irá aprender o básico das seguintes linguagens cobrindo o
 9.  String
 10. Arquivos
 
-- [x] [C](https://www.youtube.com/playlist?list=PLWWWueTSmaQ6Jpulzzpx0ujv2I7jXGt1A)
+- [x] [C - Completo](https://www.youtube.com/playlist?list=PLWWWueTSmaQ6Jpulzzpx0ujv2I7jXGt1A)
 - [ ] C++
 - [ ] JavaScript
 
