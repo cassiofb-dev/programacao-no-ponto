@@ -17,6 +17,7 @@
     - [Iniciante](#iniciante)
     - [Intermediário](#intermediário)
     - [Avançado](#avançado)
+  - [Chocolatey - Comandos úteis](#chocolatey---comandos-úteis)
   - [Recomendações](#recomendações)
   - [Documentação Útil](#documentação-útil)
   - [Agradecimentos](#agradecimentos)
@@ -180,6 +181,23 @@ Para JavaScript:
 3. Programação Assíncrona
 4. Fetch
 5. Pegando dados de uma API rest
+
+## Chocolatey - Comandos úteis
+
+Instalação de um pacote
+```sh
+choco install <pacote>
+```
+
+Lista de pacotes desatualizados
+```sh
+choco outdated
+```
+
+Atualização de todos os pacotes
+```sh
+cup all
+```
 
 ## Recomendações
 - [Curso de C](https://www.youtube.com/playlist?list=PLa75BYTPDNKZWYypgOFEsX3H2Mg-SzuLW)
